@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Sumit",
+      "rollno": "112",
+      "class": "9",
+      "totalfees": "45000",
+      "submitfees": "12000",
+      "duefees": 0
+    },
+    {
+      "id": "3",
+      "name": "Raja",
+      "rollno": "103",
+      "class": "11",
+      "totalfees": "42000",
+      "submitfees": "1000",
+      "duefees": 6000
+    },
+    {
+      "id": "4",
+      "name": "Dewansh",
+      "rollno": "104",
+      "class": "9",
+      "totalfees": "40200",
+      "submitfees": "1000",
+      "duefees": 5200
+    },
+    {
+      "id": "1",
+      "name": "Sumit ",
+      "rollno": "107",
+      "class": "12",
+      "totalfees": "50004",
+      "submitfees": "1300",
+      "duefees": 8700
+    },
+    {
+      "id": "9",
+      "name": "sanjay",
+      "rollno": "1020",
+      "class": "10",
+      "totalfees": "42500",
+      "submitfees": "15000",
+      "duefees": null
+    }
+  ]
+}
